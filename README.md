@@ -1,0 +1,2 @@
+- **Codewars** (over 1 thousand completed tasks) - https://www.codewars.com/users/RSynenko
+- **LeetCode** - https://leetcode.com/rsynenko/
